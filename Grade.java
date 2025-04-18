@@ -5,10 +5,13 @@ public class Grade{
 	
 
 
-	int counter = 0;
 	int total = 0;
 	int gradeCounter = 0;
 	int num2 = 0;          
+	
+	System.out.print("Enter the first grade: " + ())
+
+
 
 	while(gradeCounter <= 10){
 	System.out.println("Enter the next grade: " + (gradeCounter + 1));
