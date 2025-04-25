@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Stick {
 	public static void main(String[] args) {
 	
-	System.out.println("WELCOME TO OUR WORLD");
+	("WELCOME TO OUR WORLD");
 
-	System.out.println("Opay... Beyond Banking");
+	("Opay... Beyond Banking");
 
 	System.out.println("Choose any option: ");
 
